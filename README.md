@@ -10,5 +10,3 @@ this is a ✨ _special_ ✨ repository
 - 📫 How to reach me: ... ✌
 - 😄 Pronouns: ... ✌
 - ⚡ Fun fact: ... ✌
-
-😏
